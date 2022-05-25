@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP api - Model Binding + Dependency Injection HWS", "ASP api - Model Binding + Dependency Injection HWS\ASP api - Model Binding + Dependency Injection HWS.csproj", "{2D7AF01C-879D-4F51-BEC9-177977ED7B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7AF01C-879D-4F51-BEC9-177977ED7B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7AF01C-879D-4F51-BEC9-177977ED7B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7AF01C-879D-4F51-BEC9-177977ED7B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7AF01C-879D-4F51-BEC9-177977ED7B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791F22FB-3480-46DC-B1C4-B80E8B8AF8CE}
+	EndGlobalSection
+EndGlobal
